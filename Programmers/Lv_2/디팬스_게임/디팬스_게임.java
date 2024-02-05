@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-class Solution {
+class 디팬스_게임 {
     public int solution(int n, int k, int[] enemy) {
         int answer = 0;
 

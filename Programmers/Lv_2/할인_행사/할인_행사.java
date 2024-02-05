@@ -1,7 +1,7 @@
 import java.util.*;
 import java.util.stream.Collectors;
 
-class Solution {
+class 할인_행사 {
     public int solution(String[] want, int[] number, String[] discount) {
         int answer = 0;
 

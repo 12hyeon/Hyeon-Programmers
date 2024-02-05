@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class 귤_고르기 {
     public int solution(int k, int[] tangerine) {
         int answer = 0;
 
