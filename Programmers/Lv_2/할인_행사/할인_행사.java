@@ -1,3 +1,5 @@
+package Lv_2.할인_행사;
+
 import java.util.*;
 import java.util.stream.Collectors;
 

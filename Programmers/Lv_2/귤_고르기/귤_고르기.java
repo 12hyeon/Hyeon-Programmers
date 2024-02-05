@@ -1,3 +1,5 @@
+package Lv_2.귤_고르기;
+
 import java.util.*;
 
 class 귤_고르기 {
