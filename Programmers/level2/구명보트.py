@@ -9,7 +9,7 @@ def solution(people, limit):
         if (people[start] + people[end] <= limit):
             start += 1
             end -= 1
-        else:  # 혼자자
+        else:  # 혼자
             end -= 1
         answer += 1
     return answer
