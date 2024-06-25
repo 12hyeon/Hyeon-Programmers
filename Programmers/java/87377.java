@@ -3,7 +3,6 @@
  * https://school.programmers.co.kr/learn/courses/30/lessons/87377
  */
 
-
 import java.util.*;
 
 class Solution {
