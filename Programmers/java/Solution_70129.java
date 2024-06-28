@@ -3,9 +3,7 @@
  * https://school.programmers.co.kr/learn/courses/30/lessons/70129
  */
 
-import java.util.*;
-
-class Solution {
+class Solution_70129 {
 
     public int[] answer = new int[2];
 

@@ -5,7 +5,7 @@
 
 import java.util.*;
 
-class Solution {
+class Solution_87377 {
 
     public String[] solution(int[][] line) {
         List<Long> ylist = new ArrayList<>();
